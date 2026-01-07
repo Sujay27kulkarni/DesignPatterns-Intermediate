@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ti5h3XSQSLQ=",
+  "dgSpecHash": "IniOu2/GkSw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\FactoryPattern-Draft.csproj",
+  "projectFilePath": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\SimpleFactoryPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\874628\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\874628\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

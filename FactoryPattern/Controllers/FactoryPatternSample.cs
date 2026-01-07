@@ -1,4 +1,7 @@
-    using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
+using SimpleFactoryPattern.Abstractions;
+using SimpleFactoryPattern.PizzaFactory;
+using SimpleFactoryPattern.Store;
 
 namespace FactoryPattern.Controllers
 {
@@ -21,6 +24,17 @@ namespace FactoryPattern.Controllers
         [HttpGet(Name = "Demo")]
         public IEnumerable<WeatherForecast> Get()
         {
+            SimplePizzaFactory factory = new SimplePizzaFactory();
+            PizzaStore store = new PizzaStore(factory);
+
+            Pizza pizza = store.orderPizza("margarita");
+            Console.WriteLine($"Ordered a {pizza.Name}");
+
+            pizza = store.orderPizza("veggiesuprime");
+            Console.WriteLine($"Ordered a {pizza.Name}");
+
+
+
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),

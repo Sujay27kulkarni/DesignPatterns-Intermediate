@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\FactoryPattern-Draft.csproj",
-      "projectName": "FactoryPattern-Draft",
-      "projectPath": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\FactoryPattern-Draft.csproj",
+      "projectUniqueName": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\SimpleFactoryPattern.csproj",
+      "projectName": "SimpleFactoryPattern",
+      "projectPath": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\SimpleFactoryPattern.csproj",
       "packagesPath": "C:\\Users\\874628\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\874628\\Git-hub-personal\\DesignPatterns-Intermediate\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",

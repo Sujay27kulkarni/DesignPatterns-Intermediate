@@ -33,3 +33,4 @@ C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\DecoratorPattern\ob
 C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
 C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
 C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll
+C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.sourcelink.json

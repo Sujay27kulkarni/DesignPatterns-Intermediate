@@ -33,3 +33,4 @@ C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\ObserverPattern\obj
 C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
 C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\ObserverPattern\obj\Debug\net8.0\ObserverPattern.genruntimeconfig.cache
 C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll
+C:\Users\874628\Git-hub-personal\DesignPatterns-Intermediate\ObserverPattern\obj\Debug\net8.0\ObserverPattern.sourcelink.json

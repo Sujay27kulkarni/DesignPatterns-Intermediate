@@ -10,7 +10,7 @@
         "tags": [
           "SimpleCoffeeDecoratorPattern"
         ],
-        "operationId": "SimpleCoffeeDecoratorPattern",
+        "operationId": "Demo",
         "responses": {
           "200": {
             "description": "OK",
