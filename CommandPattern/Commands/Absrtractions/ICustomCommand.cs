@@ -1,6 +1,6 @@
 ﻿namespace CommandPattern.Commands.Absrtractions
 {
-    public interface ICommand
+    public interface ICustomCommand
     {
         public void execute();
         public void unExecute();

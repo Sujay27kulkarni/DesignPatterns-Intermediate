@@ -5,7 +5,7 @@ namespace CommandPattern.Invoker
 {
     public class EditorInvoker : IInvoker
     {
-        public void Execute(ICommand command)
+        public void Execute(ICustomCommand command)
         {
             command.execute();
         }

@@ -4,7 +4,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace CommandPattern.Commands
 {
-    public class AppendTextCommand : ICommand
+    public class AppendTextCommand : ICustomCommand
     {
         private readonly TextDocument _document;
         private readonly string _textToAppend;

@@ -9,5 +9,16 @@
     "Parameters": [],
     "ReturnTypes": [],
     "EndpointName": "CommandPatternEditor"
+  },
+  {
+    "ContainingType": "CommandPattern.Controllers.MathOperationsSample",
+    "Method": "Get",
+    "RelativePath": "MathOperationsSample",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "MathOperationsSample"
   }
 ]

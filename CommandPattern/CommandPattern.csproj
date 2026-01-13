@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <Compile Remove="Receiver\Absrtractions\**" />
+    <Content Remove="Receiver\Absrtractions\**" />
+    <EmbeddedResource Remove="Receiver\Absrtractions\**" />
+    <None Remove="Receiver\Absrtractions\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Receiver\Absrtractions\" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
 </Project>

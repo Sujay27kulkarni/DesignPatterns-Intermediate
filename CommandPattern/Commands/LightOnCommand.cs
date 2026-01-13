@@ -1,11 +1,11 @@
 ﻿using CommandPattern.Receiver;
 
 
-using ICommand = CommandPattern.Commands.Absrtractions.ICommand;
+using ICustomCommand = CommandPattern.Commands.Absrtractions.ICustomCommand;
 
 namespace CommandPattern.Commands
 {
-    public class LightOnCommand : ICommand
+    public class LightOnCommand : ICustomCommand
     {
         private readonly LightsOperation switchOnLights;
         public LightOnCommand(LightsOperation switchOnLights)

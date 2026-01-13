@@ -4,6 +4,6 @@ namespace CommandPattern.Invoker.Absrtractions
 {
     public interface IInvoker
     {
-        void Execute(ICommand command); 
+        void Execute(ICustomCommand command); 
     }
 }

@@ -17,6 +17,19 @@
           }
         }
       }
+    },
+    "/MathOperationsSample": {
+      "get": {
+        "tags": [
+          "MathOperationsSample"
+        ],
+        "operationId": "MathOperationsSample",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { }
