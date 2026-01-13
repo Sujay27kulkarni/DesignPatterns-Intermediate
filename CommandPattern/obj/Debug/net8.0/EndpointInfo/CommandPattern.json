@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CommandPattern",
+    "version": "1.0"
+  },
+  "paths": {
+    "/CommandPatternEditor": {
+      "get": {
+        "tags": [
+          "CommandPatternEditor"
+        ],
+        "operationId": "CommandPatternEditor",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
