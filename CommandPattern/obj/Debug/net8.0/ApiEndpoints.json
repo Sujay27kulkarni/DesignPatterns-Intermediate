@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "CommandPattern.Controllers.CommandPatternEditor",
+    "Method": "Get",
+    "RelativePath": "CommandPatternEditor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "CommandPatternEditor"
+  }
+]
